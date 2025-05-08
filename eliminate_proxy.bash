@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "膝盖"
 echo "输入【1】配置网络代理"
 echo "输入【2】删除网络代理"
 read a
